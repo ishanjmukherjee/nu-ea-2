@@ -1,2 +1,1 @@
-# nu-ea-2
-Materials for Northwestern's course GEN_ENG 205-2: Engineering Analysis II
+Materials for Northwestern University's course [GEN_ENG 205-2: Engineering Analysis II](https://www.mccormick.northwestern.edu/civil-environmental/academics/courses/descriptions/GEN_ENG%20205-2.html). I took it with Prof Shady Gomaa.
